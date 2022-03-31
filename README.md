@@ -10,5 +10,5 @@
 # University Project Idea, Report and Thesis Management System
 
 ## For Demo: http://yazilimlab2.enginbeyazgul.com/
-admin: admin@kocaeeli.edu.tr <br>
+admin: admin@kocaeli.edu.tr <br>
 sifre: 123456
