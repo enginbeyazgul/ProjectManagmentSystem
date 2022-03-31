@@ -1,0 +1,24 @@
+/* yatay scrool */
+.ps__rail-x{
+    display: none!important;
+}
+
+/* tablo td birden fazla satır */
+#tablemore td {
+    white-space: normal!important;
+}
+
+/* card-hover */
+#card-hover,#card-hoverr,#card-hoverrr{
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+#card-hover:hover{
+    border-right: 7.5px solid #FC9710!important;
+}
+#card-hoverr:hover{
+    border-right: 7.5px solid #E94340!important;
+}
+#card-hoverrr:hover{
+    border-right: 7.5px solid #5FB563!important;
+}
