@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## University Project Idea, Report and Thesis Management System
+# University Project Idea, Report and Thesis Management System
 
-# For Demo: http://yazilimlab2.enginbeyazgul.com/
-admin: admin@kocaeeli.edu.tr
+## For Demo: http://yazilimlab2.enginbeyazgul.com/
+admin: admin@kocaeeli.edu.tr <br>
 sifre: 123456
